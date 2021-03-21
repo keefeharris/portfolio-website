@@ -162,7 +162,9 @@ footer
 /****************
 index.html styles
 *****************/
-
+.index-body {
+  text-align: center;
+}
 
 
 

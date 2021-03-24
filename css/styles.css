@@ -340,20 +340,7 @@ work.html styles
 /******************
 contact.html styles
 *******************/
-.container {
-  width: 500px;
-  clear: both;
-  text-align: center; 
-}
 
-.container input {
-  width: 100%;
-  clear: both;
-}
-
-.contact-message{
-  text-align: center;
-}
 
 
 
